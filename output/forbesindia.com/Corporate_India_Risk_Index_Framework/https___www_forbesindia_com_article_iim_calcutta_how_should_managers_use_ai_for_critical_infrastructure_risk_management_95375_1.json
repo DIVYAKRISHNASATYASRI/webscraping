@@ -1,0 +1,56 @@
+[
+    {
+        "title": "How should managers use AI for critical infrastructure risk management?",
+        "effective_date": "2025-02-21T17:28:41",
+        "valid_until": "2025-02-28T10:37:31",
+        "source": "IIM Calcutta",
+        "document_url": "https://www.forbesindia.com/article/iim-calcutta/how-should-managers-use-ai-for-critical-infrastructure-risk-management/95375/1",
+        "geographic_coverage": [
+            "United States"
+        ],
+        "about": "This article discusses four action items for managers on the most effective ways of using AI as a defense tool to improve APT cyber-risk management in critical infrastructure.",
+        "description": "Researchers at IIM-C and MIT discuss the use of AI in managing risks associated with critical infrastructure, emphasizing its importance in sectors like energy, healthcare, finance, transportation, and communications.",
+        "report_period": {
+            "start_year": 2025,
+            "end_year": 2025
+        },
+        "key_metrics": {
+            "us_economy_reliance": {
+                "value": "25 trillion",
+                "data_type": "currency",
+                "context": "US economy reliance on critical infrastructure services",
+                "unit": "USD",
+                "source": "Council of Foreign Relations",
+                "time_period": "last five years",
+                "comparison": null,
+                "report_reference": null
+            },
+            "traffic_congestion_cost": {
+                "value": "90 billion",
+                "data_type": "currency",
+                "context": "Cost of traffic congestion to the US economy",
+                "unit": "USD",
+                "source": "Council of Foreign Relations",
+                "time_period": "last five years",
+                "comparison": null,
+                "report_reference": null
+            },
+            "flight_delay_cost": {
+                "value": "35 billion",
+                "data_type": "currency",
+                "context": "Cost of flight delays to the US economy",
+                "unit": "USD",
+                "source": "Council of Foreign Relations",
+                "time_period": "last five years",
+                "comparison": null,
+                "report_reference": null
+            }
+        },
+        "reports_cited": [
+            "Council of Foreign Relations"
+        ],
+        "imagedata": [
+            "https://images.forbesindia.com/media/images/2025/Feb/img_243362_shutterstock_2577605675_bg.jpg"
+        ]
+    }
+]

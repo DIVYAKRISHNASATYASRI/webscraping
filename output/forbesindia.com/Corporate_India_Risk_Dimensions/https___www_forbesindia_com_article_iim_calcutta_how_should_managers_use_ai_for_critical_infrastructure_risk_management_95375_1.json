@@ -1,0 +1,33 @@
+[
+    {
+        "title": "How Should Managers Use AI for Critical Infrastructure Risk Management",
+        "effective_date": "2025-02-25T00:00:00",
+        "source": "Forbes India",
+        "document_url": "https://www.forbesindia.com/article/iim-calcutta/how-should-managers-use-ai-for-critical-infrastructure-risk-management/95375/1",
+        "geographic_coverage": [
+            "Global"
+        ],
+        "about": "The article discusses the use of AI in managing cyber risks in critical infrastructure, highlighting the challenges and benefits of AI in this domain.",
+        "description": "The article explores how AI can be leveraged to manage cyber risks in critical infrastructure, focusing on the challenges posed by Advanced Persistent Threats (APTs) and the benefits AI offers in automating tasks, identifying complex relationships, and improving performance across the NIST Cybersecurity Framework. It also provides four action items for managers to effectively use AI in cyber risk management.",
+        "report_period": {
+            "start_year": "2024",
+            "end_year": "2025"
+        },
+        "key_metrics": {
+            "cyber_attack_incidents": {
+                "value": "60",
+                "data_type": "percentage",
+                "context": "Percentage of security leaders who believe detection and protection from APTs is getting harder with AI",
+                "unit": "%",
+                "source": "Industry inputs from over 1800 security leaders and practitioners",
+                "time_period": "2024",
+                "comparison": null,
+                "report_reference": null
+            }
+        },
+        "reports_cited": [
+            "Darktrace case study",
+            "MIT CAMS research"
+        ]
+    }
+]

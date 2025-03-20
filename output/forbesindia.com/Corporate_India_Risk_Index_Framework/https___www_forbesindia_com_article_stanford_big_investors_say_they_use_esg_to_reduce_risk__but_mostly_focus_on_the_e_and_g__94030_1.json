@@ -1,0 +1,78 @@
+[
+    {
+        "title": "Big investors say they use ESG to reduce risk (but mostly focus on the E and G)",
+        "effective_date": "2024-09-02T16:10:21",
+        "source": "Forbes India",
+        "document_url": "https://www.forbesindia.com/article/stanford/big-investors-say-they-use-esg-to-reduce-risk-(but-mostly-focus-on-the-e-and-g)/94030/1",
+        "geographic_coverage": [
+            "North America",
+            "Europe"
+        ],
+        "about": "A new survey offers a rare window into how the world's largest institutional investors think about environmental, social, and governance priorities.",
+        "description": "The article discusses a survey conducted by Stanford Graduate School of Business researchers on how large institutional investors view ESG factors. It highlights that investors focus more on governance and environmental factors, with social factors being less prioritized. The survey reveals that investors use ESG to reduce risk, particularly tail risk, and that governance quality is crucial for companies to be held by institutional investors.",
+        "report_period": {
+            "start_year": "2024",
+            "end_year": "2024"
+        },
+        "key_metrics": {
+            "1": {
+                "value": "47",
+                "data_type": "count",
+                "context": "Number of survey respondents",
+                "unit": null,
+                "source": null,
+                "time_period": null,
+                "comparison": null,
+                "report_reference": null
+            },
+            "2": {
+                "value": "250",
+                "data_type": "billion",
+                "context": "Assets held by nearly half of the respondents",
+                "unit": "USD",
+                "source": null,
+                "time_period": null,
+                "comparison": null,
+                "report_reference": null
+            },
+            "3": {
+                "value": "78",
+                "data_type": "percentage",
+                "context": "Respondents ranking climate change or carbon emissions as the most important environmental factors",
+                "unit": "%",
+                "source": null,
+                "time_period": null,
+                "comparison": null,
+                "report_reference": null
+            },
+            "4": {
+                "value": "75",
+                "data_type": "percentage",
+                "context": "Respondents believing governance issues affect investment performance in the next 24 months",
+                "unit": "%",
+                "source": null,
+                "time_period": null,
+                "comparison": null,
+                "report_reference": null
+            },
+            "5": {
+                "value": "90",
+                "data_type": "percentage",
+                "context": "Respondents believing climate issues affect performance over the next two to five years",
+                "unit": "%",
+                "source": null,
+                "time_period": null,
+                "comparison": null,
+                "report_reference": null
+            }
+        },
+        "reports_cited": [
+            "Stanford Business Insights"
+        ],
+        "imagedata": [
+            "https://images.forbesindia.com/media/images/2024/Sep/img_238393_esg.jpg",
+            "https://images.forbesindia.com/media/images/2024/Sep/img_238390_esgone.jpg",
+            "https://images.forbesindia.com/media/images/2024/Sep/img_238391_esgtwo.jpg"
+        ]
+    }
+]
